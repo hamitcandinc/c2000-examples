@@ -1,0 +1,6 @@
+**/Debug/
+**/Release/
+**/html/
+**/Backup/
+**/*.bak
+**/.~lock.*
